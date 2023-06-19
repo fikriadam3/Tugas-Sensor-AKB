@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">10120070_Tugas Sensor</string>
+    <string name="profile">Profile</string>
+    <string name="note">Notes</string>
+    <string name="info">Info</string>
+    <string name="txt_welcome">Tugas Sensor Oleh Fikri A</string>
+    <string name="txt_intro">Aplikasi ini dibuat Untuk Tugas Mata Kuliah AKB.</string>
+    <string name="txt_intro2">Aplikasi ini memiliki menu Lokasi Saat ini , Profil , Restoran terdekat dan informasi tentang Aplikasi .</string>
+    <string name="memo">Tips cara Menggunakan Restoran Terdekat</string>
+    <string name="penjelasan"> Untuk Mencari Restoran Terdekat, tekan logo My location di menu bawah, maka akan muncul fitur Map, kemudian terima permintaan location, setelah itu, tekan tombol nearby di menu, kemudian tekan "restoran terdekat", maka akan muncul 5 macam restoran terdekat </string>
+
+</resources>
